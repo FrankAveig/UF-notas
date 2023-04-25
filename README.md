@@ -4,7 +4,11 @@
   
   ## Resumen
 
-Esta aplicación médica está diseñada para ayudar a los centros médicos a gestionar sus procesos diarios, como agendar citas, registrar historias clínicas, emitir recetas médicas y llevar un control básico de la contabilidad. La aplicación también proporciona un sistema de autenticación y autorización para varios roles, incluidos médicos, enfermeras y otros empleados.
+Aplicación médica que permite de manera fácil y eficiente a los centros médicos gestionar sus procesos diarios, como agendar citas, registrar historias clínicas, emitir recetas médicas, llevar un control básico de la contabilidad, facturar electrónicamente y dar acceso a los pacientes a su historial clínico. La aplicación también proporciona un sistema de autenticación y autorización para varios roles, incluidos médicos, enfermeras y otros empleados.
+
+Además, cuenta con medidas de seguridad y privacidad adecuadas para proteger la información confidencial de pacientes y empleados.
+
+La interfaz simple, clara y fácil de usar es una prioridad en la aplicación.
   
 # Funcionamiento de la aplicación
 
@@ -36,7 +40,7 @@ Dado que la aplicación maneja información sensible sobre pacientes y empleados
 
 4. **Auditoría y monitoreo**: La aplicación debe registrar las acciones de los usuarios y monitorear la actividad sospechosa para detectar y prevenir posibles violaciones de seguridad y privacidad.
 
-5. **Cumplimiento normativo**: La aplicación debe cumplir con las leyes y regulaciones locales e internacionales de protección de datos y privacidad, como GDPR, HIPAA, y otras normativas aplicables.
+5. **Cumplimiento normativo**: La aplicación debe cumplir con las leyes y regulaciones locales e internacionales de protección de datos y privacidad, como [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [HIPAA](https://www.hhs.gov/hipaa/index.html), y otras normativas aplicables.
 
 6. **Protección de datos del paciente**: La aplicación debe garantizar la protección de los datos personales y médicos de los pacientes, almacenándolos de forma segura y permitiendo el acceso solo a usuarios autorizados, incluidos los propios pacientes a través de la autenticación.
 
